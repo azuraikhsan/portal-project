@@ -1,1 +1,1 @@
-Hello.. This is my repo
+Pls read this file before execute
