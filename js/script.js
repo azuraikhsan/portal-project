@@ -1,1 +1,2 @@
-alert("Welcome to GitHub Training");
+alert("Welcome Azura");
+alert("Pls conflict");
