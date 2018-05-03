@@ -1,1 +1,1 @@
-alert("Hello GitHub Trainee: Azura");
+alert("Welcome to GitHub Training");
